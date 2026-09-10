@@ -17,7 +17,7 @@
 </style>
 
 <h1 style="text-align: center; padding-top: 30px;">Topics in Geometry</h1>
-<p> Welcome to the LSGNT Topics in Geometry course for 2025/26.</p>
+<p> Welcome to the LSGNT Topics in Geometry course for 2026/27.</p>
 
 <h3> Course structure</h3>
 
@@ -35,7 +35,7 @@
 
 <h3 style="text-align:left;">Location</h3>
 
-<p>Lectures are in Room 658, Huxley building, Imperial College. Wrap-ups this term are in 408 (except 13th Mar. which is in 341).</p>
+<p>Lectures are in Room 658, Huxley building, Imperial College. Wrap-ups this term are in 408 (except 12th Mar. which is in 341).</p>
 
 <h3 style="text-align:left;">Schedule</h3>
 
@@ -56,42 +56,42 @@ th, td { padding: 15px; }
 
 <tbody><tr><td> <b>Date</b> </td><td><b> Topic</b> </td><td> <b>Lecturer</b> </td><td><b> Owner</b> </td><td> <b>2nd year</b></td></tr>
 
-<tr><td>23/1/26</td><td>Special Holonomy<br>&nbsp;<br>
+<tr><td>22/1/27</td><td>Special Holonomy<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/specialholonomyLSGNT2026.pdf">Notes</a></td><td>Simon Donaldson</td> <td>Edward Young</td> <td>Yichen Zhang</td> </tr>
 
-<tr><td>30/1/26</td><td>Geometric Invariant Theory<br>&nbsp;<br>
+<tr><td>29/1/27</td><td>Geometric Invariant Theory<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/GIT2026.pdf">Notes</a> | <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/GITexamples.pdf">Exercises</a>
 </td><td>Alessio Corti</td> <td>Anna Bresciani</td> <td>Patrick Luo</td> </tr>
 
-<tr><td>6/2/26</td><td>Ordinary Double Points<br>&nbsp;<br>
+<tr><td>5/2/27</td><td>Ordinary Double Points<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/ODP_without_pauses.pdf">Notes with exercises</a> </td><td>Richard Thomas
 </td> <td>Edison Xie</td> <td>Ashesh Bati</td> </tr>
 
-<tr><td>13/2/26</td><td>Geometric Representation Theory<br>&nbsp;<br>
+<tr><td>12/2/27</td><td>Geometric Representation Theory<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/geom%20rep%202026.pdf">Notes</a> | <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/geom%20rep%20ex%202026.pdf">Exercises</a>
 
 </td>
 
 <td>Travis Schedler</td> <td>Haoming Yang</td> <td>Chingun Erdenebileg</td> </tr>
 
-<tr><td>20/2/26</td><td>Ricci Flow<br>&nbsp;<br>
+<tr><td>19/2/27</td><td>Ricci Flow<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Ricci%20Flow.pdf">Notes with exercises</a> </td><td>Stephen Lynch</td> <td>Oliver Seaman</td> <td>Natasha Diederen</td> </tr>
 
-<tr><td>27/2/26</td><td>Homogenous Dynamics<br>&nbsp;<br>
+<tr><td>26/2/27</td><td>Homogenous Dynamics<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/exercises_Homogeneous_dynamics.pdf">Exercises</a></td><td>Selim Ghazouani</td> <td>Adam Baranski</td> <td>Silvia Gangeri</td> </tr>
 
-<tr><td>6/3/26</td><td>Deformation Theory<br>&nbsp;<br>
+<tr><td>5/3/27</td><td>Deformation Theory<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/deformation%20theory%20exercises.pdf">Exercises</a>
 
 
 </td><td>Ed Segal</td> <td>Kyaw Shin Thant</td> <td>Simon Alonso</td> </tr>
 
-<tr><td>13/3/26</td><td>Jacobians<br>&nbsp;<br>
+<tr><td>12/3/27</td><td>Jacobians<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/jacobians.pdf">Notes</a>
 
 </td><td>Nick Shepherd-Barron</td> <td>Ivan Noden</td> <td>Naina Praveen</td> </tr>
 
-<tr><td>20/3/26</td><td>Quantum Cohomology</td><td>Yankı Lekili</td> <td>Oliver Sokvari</td> <td>Andy Yang</td> </tr>
+<tr><td>19/3/27</td><td>Quantum Cohomology</td><td>Yankı Lekili</td> <td>Oliver Sokvari</td> <td>Andy Yang</td> </tr>
 
 </tbody></table>
 
@@ -104,43 +104,43 @@ th, td { padding: 15px; }
 
 <tbody><tr><td> <b>Date</b> </td><td><b> Topic</b> </td><td> <b>Lecturer</b> </td><td><b> Owner</b> </td><td> <b>2nd year</b></td></tr>
 
-<tr><td>26/9/25</td><td>Spec and Proj <br>&nbsp;<br>
+<tr><td>25/9/26</td><td>Spec and Proj <br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Spec%20and%20proj%20lecture%2021.pdf">Old slides | </a><a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/spec%20and%20proj%20exercises.pdf">Exercises</a> </td><td>Ed Segal</td> <td>Haoming Yang</td> <td>Simon Alonso</td> </tr>
 
-<tr><td>3/10/25</td><td>Poincaré duality<br>&nbsp;<br>
+<tr><td>2/10/26</td><td>Poincaré duality<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Poincare%20duality.pdf">Notes</a> | <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Poincare%20duality%20exercises.pdf">Exercises</a>
  </td><td>Steven Sivek</td> <td>Kyaw Shin Thant</td><td>Xander Povey</td> </tr>
 
-<tr><td>10/10/25</td><td>Vector bundles and Chern classes<br>&nbsp;<br><a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Chern_Classes_25.pdf">Notes with exercises</a>
+<tr><td>9/10/26</td><td>Vector bundles and Chern classes<br>&nbsp;<br><a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Chern_Classes_25.pdf">Notes with exercises</a>
  </td><td>Richard Thomas</td> <td>Julian Huber</td> <td>Naina Praveen</td> </tr>
 
-<tr><td>17/10/25</td><td>Complex and Kähler geometry<br>&nbsp;<br><a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/ComplexandkahlerLGNT2024.pdf">Old notes with exercises</a>
+<tr><td>16/10/26</td><td>Complex and Kähler geometry<br>&nbsp;<br><a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/ComplexandkahlerLGNT2024.pdf">Old notes with exercises</a>
  </td><td>Aleksander Doan</td> <td>Anna Bresciani </td> <td>Lucie Gatzmaga</td> </tr>
 
-<tr><td>24/10/25</td><td>Blowing up<br>&nbsp;<br>
+<tr><td>23/10/26</td><td>Blowing up<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Blow_ups_exercises2025.pdf">Exercises</a>
  </td><td>Calum Spicer</td> <td>Adam Baranski</td> <td>Patrick Luo</td> </tr>
 
-<tr><td>31/10/25 🎃</td><td>Symplectic geometry<br>&nbsp;<br>
+<tr><td>30/10/26</td><td>Symplectic geometry<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/symplecticmoment25.pdf">Notes with exercises</a>
 
  </td><td>Dima Panov</td> <td>Oliver Sokvari</td> <td>Zhaoyang Liu</td> </tr>
 
-<tr><td>7/11/25</td><td>Morse theory
+<tr><td>6/11/26</td><td>Morse theory
 <br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/exercises_Morse_theory_25.pdf">Exercises</a> |
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Morse%20Theory%20Oct%202021.pdf">Old notes with exercises</a> | <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Morse.pdf">More old notes with exercises</a>
  </td><td>Selim Ghazouani</td> <td>Oliver Seaman</td> <td>Silvia Gangeri</td> </tr>
 
-<tr><td>14/11/25</td><td>Hodge theory<br>&nbsp;<br>
+<tr><td>13/11/26</td><td>Hodge theory<br>&nbsp;<br>
  </td><td>Heather Macbeth</td> <td>Ivan Noden</td> <td>Sasha Novik</td> </tr>
 
-<tr><td>21/11/25</td><td>Minimal surfaces<br>&nbsp;<br>
+<tr><td>20/11/26</td><td>Minimal surfaces<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/minimal2025.pdf">Notes with exercises</a>
 
  </td><td>Mikhail Karpukhin</td> <td>Edison Xie</td> <td>Natasha Diederen</td> </tr>
 
-<tr><td>28/11/25</td><td>Mapping class groups<br>&nbsp;<br>
+<tr><td>27/11/26</td><td>Mapping class groups<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/LSGNT_%20Mapping%20Class%20Groups.pdf">Notes</a> |
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/MCG%20Exercises%202025-26.pdf">Exercises</a>
 
@@ -148,7 +148,7 @@ th, td { padding: 15px; }
  </td><td>Mehdi Yazdi</td> <td>Zhengyang Cui</td> <td>Fulin Zhong</td> </tr>
 
 
-<tr><td>5/12/25</td><td>Moduli spaces<br>&nbsp;<br>
+<tr><td>4/12/26</td><td>Moduli spaces<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/moduli24.pdf">Exercises</a>
 
  </td><td>Soheyla Feyzbakhsh</td> <td>Edward Young</td> <td>Ashesh Bati</td> </tr>
@@ -171,4 +171,3 @@ th, td { padding: 15px; }
 
 
 </body></html>
-
