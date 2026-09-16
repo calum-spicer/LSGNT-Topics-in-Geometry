@@ -101,7 +101,7 @@
 <a>Exercises</a>
 
 
- </td><td>Olivier e Gaay Fortman</td> <td>TBD</td> <td>TBD</td> </tr>
+ </td><td>Olivier de Gaay Fortman</td> <td>TBD</td> <td>TBD</td> </tr>
 
 
 <tr><td>11/12/26</td><td>3-manifolds<br>&nbsp;<br>
