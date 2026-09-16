@@ -3,7 +3,7 @@
 <head>
 
   <meta charset="UTF-8">
-  <title>Topics in Geometry</title>
+  
 
   <meta name="google-site-verification" content="wytwtXi1x92UavttqR1UUPLWJEx9HBA40u6x-N-9nsM">
 
