@@ -104,7 +104,7 @@
  </td><td>Olivier e Gaay Fortman</td> <td>TBD</td> <td>TBD</td> </tr>
 
 
-<tr><td>4/12/26</td><td>3-manifolds<br>&nbsp;<br>
+<tr><td>11/12/26</td><td>3-manifolds<br>&nbsp;<br>
 <a>Exercises</a>
 
  </td><td>Mehdi Yazdi</td> <td>TBD</td> <td>TBD</td> </tr>
