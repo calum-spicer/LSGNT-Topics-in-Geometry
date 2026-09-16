@@ -13,8 +13,7 @@
 
 <body>
 
-<style> p, h1, h3, table {margin-left: 20px; margin-right: 20px;}
-</style>
+
 
 <h1 style="text-align: center; padding-top: 30px;">Topics in Geometry</h1>
 <p> Welcome to the LSGNT Topics in Geometry course for 2026/27.</p>
