@@ -43,13 +43,6 @@
 
 
 
- <style>
-         table, th, td {
-            border: 1px solid black;          }
-th, td { padding: 15px; }
-      </style>
-
-<h3 style="text-align:left;">Term 2</h3>
 
 
 
