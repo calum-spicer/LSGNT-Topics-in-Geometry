@@ -28,7 +28,7 @@
 
 
 
-<p>There are some notes of talks on the websites for <a href="https://www.homepages.ucl.ac.uk/~ucaheps/LSGNTtopics24.html">last year's course</a> and the
+<p>There are some notes of talks on the websites for <a href="https://www.homepages.ucl.ac.uk/~ucaheps/LSGNTtopics25.html">last year's course</a> and the
 <a href="https://lekili.freemath.xyz/teaching/topics/">2023-24 course</a> (which was run by Yankı Lekili). Also see <a href="https://www.ma.imperial.ac.uk/~rpwt/CDT.html">the 2019 course</a> for words of wisdom from Richard Thomas.</p>
 
 
@@ -54,7 +54,7 @@
 
 <tbody><tr><td> <b>Date</b> </td><td><b> Topic</b> </td><td> <b>Lecturer</b> </td><td><b> Owner</b> </td><td> <b>2nd year</b></td></tr>
 
-<tr><td>2/10/26</td><td>Spec and Proj <br>&nbsp;<br>
+<tr><td>2/10/26</td><td>Spec and Proj (Starts at 2:20 PM!) <br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Spec%20and%20proj%20lecture%2021.pdf">Old slides | </a><a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/spec%20and%20proj%20exercises.pdf">Exercises</a> </td><td>Ed Segal</td> <td>TBD</td> <td>TBD</td> </tr>
 
 <tr><td>9/10/26</td><td>Poincaré duality<br>&nbsp;<br>
