@@ -28,7 +28,7 @@
 
 
 
-<p>There are some notes of talks on the websites for <a href="https://www.homepages.ucl.ac.uk/~ucaheps/LSGNTtopics25.html">last year's course</a> and the
+<p>There are some notes of talks on the websites for <a href="https://www.homepages.ucl.ac.uk/~ucaheps/LSGNTtopics25.html">last year's course</a>, <a href="https://www.homepages.ucl.ac.uk/~ucaheps/LSGNTtopics24.html"> the 2024-25 course</a>and the
 <a href="https://lekili.freemath.xyz/teaching/topics/">2023-24 course</a> (which was run by Yankı Lekili). Also see <a href="https://www.ma.imperial.ac.uk/~rpwt/CDT.html">the 2019 course</a> for words of wisdom from Richard Thomas.</p>
 
 
