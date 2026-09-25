@@ -34,7 +34,7 @@
 
 <h3 style="text-align:left;">Location</h3>
 
-<p>Lectures are in Room 658, Huxley building, Imperial College. Wrap-ups this term are in 408 (except 12th Mar. which is in 341).</p>
+<p>Lectures and Wrap-Ups are in Room 658, Huxley building, Imperial College.</p>
 
 <h3 style="text-align:left;">Schedule</h3>
 
