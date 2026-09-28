@@ -55,53 +55,56 @@
 <tbody><tr><td> <b>Date</b> </td><td><b> Topic</b> </td><td> <b>Lecturer</b> </td><td><b> Owner</b> </td><td> <b>2nd year</b></td></tr>
 
 <tr><td>2/10/26</td><td>Spec and Proj (Starts at 2:40 PM!) <br>&nbsp;<br>
-<a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Spec%20and%20proj%20lecture%2021.pdf">Old slides | </a><a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/spec%20and%20proj%20exercises.pdf">Exercises</a> </td><td>Ed Segal</td> <td>TBD</td> <td>TBD</td> </tr>
+<a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Spec%20and%20proj%20lecture%2021.pdf">Old slides | </a><a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/spec%20and%20proj%20exercises.pdf">Exercises</a> </td><td>Ed Segal</td> <td>TBD</td> <td>Haoming Yang</td> </tr>
 
 <tr><td>9/10/26</td><td>Poincaré duality<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Poincare%20duality.pdf">Notes</a> | <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Poincare%20duality%20exercises.pdf">Exercises</a>
- </td><td>Steven Sivek</td> <td>TBD</td><td>TBD</td> </tr>
+ </td><td>Steven Sivek</td> <td>TBD</td><td>Kyaw Shin Thant</td> </tr>
 
 <tr><td>16/10/26</td><td>Complex geometry<br>&nbsp;<br>
   <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/ComplexandkahlerLGNT2024.pdf">Old notes with exercises</a>
- </td><td>Aleksander Doan</td> <td>TBD </td> <td>TBD</td> </tr>
+ </td><td>Aleksander Doan</td> <td>TBD </td> <td>Anna Besciani</td> </tr>
 
 <tr><td>23/10/26</td><td>Vector bundles and Chern classes<br>&nbsp;<br>
   <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Chern_Classes_25.pdf">Notes with exercises</a>
- </td><td>Selim Ghazouani</td> <td>TBD</td> <td>TBD</td> </tr>
+ </td><td>Selim Ghazouani</td> <td>TBD</td> <td>Julian Huber</td> </tr>
 
 
 
 <tr><td>30/10/26</td><td>Blowing up<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Blow_ups_exercises2025.pdf">Exercises</a>
- </td><td>Calum Spicer</td> <td>TBD</td> <td>TBD</td> </tr>
+ </td><td>Calum Spicer</td> <td>TBD</td> <td>Adam Baranski</td> </tr>
 
 <tr><td>6/11/26</td><td>Symplectic geometry<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/symplecticmoment25.pdf">Notes with exercises</a>
- </td><td>Yanki Lekili</td> <td>Oliver Sokvari</td> <td>Zhaoyang Liu</td> </tr>
+ </td><td>Yanki Lekili</td> <td>TBA</td> <td>Oliver Sokvari</td> </tr>
 
 <tr><td>13/11/26</td><td>Morse theory
 <br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/exercises_Morse_theory_25.pdf">Exercises</a> |
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Morse%20Theory%20Oct%202021.pdf">Old notes with exercises</a> | <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Morse.pdf">More old notes with exercises</a>
- </td><td>Kyler Siegel</td> <td>TBD</td> <td>TBD</td> </tr>
+ </td><td>Kyler Siegel</td> <td>TBD</td> <td>Oliver Seaman</td> </tr>
 
 
 <tr><td>20/11/26</td><td>Minimal surfaces<br>&nbsp;<br>
 <a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/minimal2025.pdf">Notes with exercises</a>
 
- </td><td>Mikhail Karpukhin</td> <td>TBD</td> <td>TBD</td> </tr>
-
-<tr><td>27/11/26</td><td>Ordinary Double Points<br>&nbsp;<br>
- </td><td>Richard Thomas</td> <td>TBD</td> <td>TBD</td> </tr>
+ </td><td>Mikhail Karpukhin</td> <td>TBD</td> <td>Edison Xie</td> </tr>
 
 
-
-<tr><td>4/12/26</td><td>Hodge Theory<br>&nbsp;<br>
+<tr><td>27/11/26</td><td>Hodge Theory<br>&nbsp;<br>
 <a>Notes</a> |
 <a>Exercises</a>
 
 
- </td><td>Olivier de Gaay Fortman</td> <td>TBD</td> <td>TBD</td> </tr>
+ </td><td>Olivier de Gaay Fortman</td> <td>TBD</td> <td>Edward Young</td> </tr>
+
+<tr><td>4/12/26</td><td>Ordinary Double Points<br>&nbsp;<br>
+ </td><td>Richard Thomas</td> <td>TBD</td> <td>Zhengyang Cui</td> </tr>
+
+
+
+
 
 
 <tr><td>11/12/26</td><td>3-manifolds<br>&nbsp;<br>
