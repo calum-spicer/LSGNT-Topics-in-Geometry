@@ -111,7 +111,7 @@
 <tr><td>11/12/26</td><td>3-manifolds<br>&nbsp;<br>
 <a>Exercises</a>
 
- </td><td>Mehdi Yazdi</td> <td>TBD</td> <td>TBD</td> </tr>
+ </td><td>Mehdi Yazdi</td> <td> </td> <td> </td> </tr>
 
 
 </tbody></table>
