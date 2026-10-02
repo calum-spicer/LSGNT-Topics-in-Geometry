@@ -55,7 +55,7 @@
 <tbody><tr><td> <b>Date</b> </td><td><b> Topic</b> </td><td> <b>Lecturer</b> </td><td><b> Owner</b> </td><td> <b>2nd year</b></td></tr>
 
 <tr><td>2/10/26</td><td>Spec and Proj (Starts at 2:40 PM!) <br>&nbsp;<br>
-<a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Spec%20and%20proj%20lecture%2021.pdf">Old slides | </a><a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/spec%20and%20proj%20exercises.pdf">Exercises</a> 
+<a href="https://www.homepages.ucl.ac.uk/~ucaheps/topics/Spec%20and%20proj%20lecture%2021.pdf">Old slides | </a><a href="spec and proj exercises 2026.pdf">Exercises</a> 
 </td><td>Ed Segal</td> <td>Daniel Lang</td> <td>Haoming Yang</td> </tr>
 
 <tr><td>9/10/26</td><td>Poincaré duality<br>&nbsp;<br>
